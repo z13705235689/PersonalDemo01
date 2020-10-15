@@ -12,9 +12,9 @@ jpa:
   database: mysql
   show-sql: true
 
-server:
-  port: 8080
-  servlet:
-#    context-path:
-  tomcat:
-    uri-encoding: utf-8
+#server:
+#  port: 8080
+#  servlet:
+##    context-path:
+#  tomcat:
+#    uri-encoding: utf-8
